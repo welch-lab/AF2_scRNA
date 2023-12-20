@@ -1,0 +1,19 @@
+entry,gene,PDB,TM_score_1,TM_score_2,TM_score_mean,RMSD,experimental_length,alphafold_length,type,function
+Q16222-1,,1jvd(A),0.90267,0.98049,0.94158,1.19,480,522,reference,
+Q16222-2,UAP1,1jv3(A),0.97273,0.94426,0.958495,1.96,490,505,isoform,"Nucleotidyltransferase,?Transferase"
+P24666-1,,5kql(A),0.96011,0.98479,0.97245,0.92,154,158,reference,
+P24666-2,ACP1,1xww,0.97273,0.94426,0.958495,1.96,157,158,isoform,"Hydrolase,?Protein phosphatase"
+P50053-1,,6ul7,0.98779,0.99109,0.98944,0.68,297,298,reference,
+P50053-2,KHK,2hw1(A),0.96678,0.96044,0.96361,1.38,298,298,isoform,"Kinase,?Transferase"
+P55263-1,,4o1l(A),0.81298,0.89717,0.855075,2.62,326,362,reference,
+P55263-2,ADK,2i6b(A),0.89389,0.85482,0.874355,2.83,329,345,isoform,"Kinase,?Transferase"
+P45983-1,,7ksk(A),0.75081,0.96269,0.85675,2.53,334,427,reference,
+P45983-3,MAPK8,2xs0(A),0.96599,0.8726,0.919295,1.43,346,384,isoform,"Kinase,?Serine/threonine-protein kinase,?Transferase"
+P14618-1,,6gg3(A),0.92843,0.94913,0.93878,2.14,519,531,reference,
+P14618-2,PKM,3srf(A),0.97896,0.95351,0.966235,1.42,517,531,isoform,"Allosteric enzyme,?Kinase,?Transferase"
+P17612-1,,5j5x(A),0.9571,0.98774,0.97242,0.76,340,351,reference,
+P17612-2,PRKACA,4ae9(A),0.9698,0.90905,0.939425,1.21,321,343,isoform,"Kinase,?Serine/threonine-protein kinase,?Transferase"
+Q9UBQ0-1,,6xs9(A),0.97668,0.98728,0.98198,0.57,184,182,reference,
+Q9UBQ0-2,VPS29,5gtu(A),0.98405,0.98405,0.98405,0.97,186,186,isoform,"Host-virus interaction,?Protein transport,?Transport"
+P36871-1,,5epc(A),0.94754,0.94591,0.946725,2,561,562,reference,
+P36871-2,PGM1,6snq(A),0.95821,0.93389,0.94605,4.54,565,580,isoform,Isomerase
