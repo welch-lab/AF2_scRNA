@@ -1,0 +1,134 @@
+cell type,cell count
+b cell,740
+myeloid cell,58
+t cell,735
+mast cell,413
+pancreatic acinar cell,444
+pancreatic stellate cell,7
+pancreatic ductal cell,104
+skeletal muscle satellite stem cell,611
+tendon cell,55
+capillary endothelial cell,679
+mesenchymal stem cell,1423
+fast muscle cell,85
+pericyte cell,405
+slow muscle cell,52
+macrophage,1557
+endothelial cell of vascular tree,735
+type i pneumocyte,7
+type ii pneumocyte,317
+endothelial cell of artery,41
+capillary aerocyte,38
+vein endothelial cell,207
+basal cell,1073
+lung ciliated cell,35
+classical monocyte,639
+club cell,15
+alveolar fibroblast,89
+respiratory goblet cell,32
+bronchial smooth muscle cell,14
+endothelial cell of lymphatic vessel,106
+lung microvascular endothelial cell,5
+vascular associated smooth muscle cell,156
+fibroblast,1109
+"cd8-positive, alpha-beta t cell",1178
+dendritic cell,68
+"cd4-positive, alpha-beta t cell",1094
+plasmacytoid dendritic cell,6
+nk cell,613
+adventitial cell,418
+basophil,9
+neutrophil,397
+non-classical monocyte,9
+memory b cell,1094
+naive b cell,262
+erythrocyte,102
+monocyte,907
+pancreatic alpha cell,25
+plasma cell,809
+bladder urothelial cell,227
+myofibroblast cell,34
+smooth muscle cell,98
+pancreatic pp cell,68
+pancreatic beta cell,10
+endothelial cell,603
+mature nk t cell,154
+ciliated cell,55
+secretory cell,29
+serous cell of epithelium of trachea,6
+mucus secreting cell,14
+tracheal goblet cell,12
+ionocyte,1
+cd24 neutrophil,225
+nampt neutrophil,70
+granulocyte,72
+erythroid progenitor,87
+hematopoietic stem cell,187
+plasmablast,4
+myeloid progenitor,33
+luminal epithelial cell of mammary gland,218
+fibroblast of breast,105
+microglial cell,46
+eye photoreceptor cell,9
+limbal stromal cell,3
+conjunctival epithelial cell,16
+melanocyte,20
+muller cell,6
+corneal keratocyte,10
+retinal pigment epithelial cell,3
+lacrimal gland functional unit cell,109
+erythroid lineage cell,3
+type i nk t cell,79
+"cd4-positive, alpha-beta memory t cell",402
+"cd8-positive, alpha-beta memory t cell",491
+regulatory t cell,66
+"naive thymus-derived cd4-positive, alpha-beta t cell",344
+"naive thymus-derived cd8-positive, alpha-beta t cell",43
+intermediate monocyte,13
+innate lymphoid cell,517
+cd141-positive myeloid dendritic cell,16
+cd4-positive helper t cell,162
+epithelial cell of uterus,50
+epithelial cell,418
+ciliated epithelial cell,2
+platelet,46
+"cd8-positive, alpha-beta cytokine secreting effector t cell",16
+keratinocyte,18
+tongue muscle cell,4
+immune cell,495
+stromal cell,102
+basal cell of prostate epithelium,55
+nkt cell,24
+leucocyte,155
+muscle cell,35
+cd8-positive alpha-beta t cell,54
+cd4-positive alpha-beta t cell,117
+mature conventional dendritic cell,1
+cd1c-positive myeloid dendritic cell,43
+hepatocyte,56
+langerhans cell,5
+"cd8-positive, alpha-beta cytotoxic t cell",2
+fibroblast of cardiac tissue,49
+cardiac muscle cell,14
+cardiac endothelial cell,108
+mesothelial cell,3
+intrahepatic cholangiocyte,4
+endothelial cell of hepatic sinusoid,11
+liver dendritic cell,2
+retinal bipolar neuron,1
+radial glial cell,1
+retinal blood vessel endothelial cell,1
+mature enterocyte,693
+duodenum glandular cell,5
+paneth cell of epithelium of small intestine,33
+kidney epithelial cell,173
+immature enterocyte,44
+transit amplifying cell of small intestine,30
+intestinal crypt stem cell,74
+goblet cell,119
+intestinal enteroendocrine cell,6
+serous cell of epithelium of bronchus,2
+transit amplifying cell of large intestine,4
+intestinal tuft cell,21
+medullary thymic epithelial cell,3
+immature natural killer cell,2
