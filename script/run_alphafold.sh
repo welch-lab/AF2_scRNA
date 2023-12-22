@@ -1,11 +1,7 @@
 #!/bin/bash
-# Description: AlphaFold non-docker version
-# Author: Sanjay Kumar Srikakulam
-
+# Reference: https://github.com/kalininalab/alphafold_non_docker (Author: Sanjay Kumar Srikakulam)
 
 usage() {
-        echo ""
-        echo "Please make sure all required parameters are given"
         echo "Usage: $0 <OPTIONS>"
         echo "Required Parameters:"
         echo "-d <data_dir>         Path to directory of supporting data"
@@ -21,7 +17,6 @@ usage() {
         echo "-p <use_precomputed_msas> Whether to read MSAs that have been written to disk. WARNING: This will not check if the sequence, database or configuration have changed (default: 'false')"
         echo "-l <is_prokaryote>    Optional for multimer system, not used by the single chain system. A boolean specifying true where the target complex is from a prokaryote, and false where it is not, or where the origin is unknown. This value determine the pairing method for the MSA (default: 'None')"
         echo "-b <benchmark>        Run multiple JAX model evaluations to obtain a timing that excludes the compilation time, which should be more indicative of the time required for inferencing many proteins (default: 'false')"
-        echo ""
         exit 1
 }
 
@@ -105,7 +100,6 @@ if [[ "$use_precomputed_msas" == "" ]] ; then
     use_precomputed_msas="false"
 fi
 
-# This bash script looks for the run_alphafold.py script in its current working directory, if it does not exist then exits
 current_working_dir=$(pwd)
 alphafold_script="$current_working_dir/run_alphafold.py"
 
@@ -114,8 +108,6 @@ if [ ! -f "$alphafold_script" ]; then
     exit 1
 fi
 
-# Export ENVIRONMENT variables and set CUDA devices for use
-# CUDA GPU control
 export CUDA_VISIBLE_DEVICES=-1
 if [[ "$use_gpu" == true ]] ; then
     export CUDA_VISIBLE_DEVICES=0
