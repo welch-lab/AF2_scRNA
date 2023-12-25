@@ -12,4 +12,4 @@ Instruction on running the notebooks and scripts:
 
 notebooks are used for reproduce main figures in the paper.
 
-Predicted reference and isoform structures are stored in figshare (DOI: 10.6084/m9.figshare.24891870), processed human scRNA-seq dataset for is stored in figshare (DOI: 10.6084/m9.figshare.24843948), fuunction prediction results are stored in figshare (DOI: 10.6084/m9.figshare.24891897)
+Predicted reference and isoform structures are stored in figshare (DOI: 10.6084/m9.figshare.24891870), processed human scRNA-seq dataset for is stored in figshare (DOI: 10.6084/m9.figshare.24843948), function prediction results are stored in figshare (DOI: 10.6084/m9.figshare.24891897)
