@@ -1,6 +1,7 @@
 # Predicting the Structural Impact of Human Alternative Splicing
 
-![workflow](https://github.com/welch-lab/AF2_scRNA/assets/57822091/554bd255-a370-4653-830d-e999e8541c91)
+#![workflow](https://github.com/welch-lab/AF2_scRNA/assets/57822091/554bd255-a370-4653-830d-e999e8541c91)
+![workflow](figures/workflow.png)
 
 This repository contains code and resources related to the project on predicting the structural impact of human alternative splicing.
 
