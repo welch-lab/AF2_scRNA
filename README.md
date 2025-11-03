@@ -18,4 +18,4 @@ Predicted reference and isoform structures are stored in figshare (DOI: 10.6084/
 
 ## Citation
 
->[Yuxuan Song, Chengxin Zhang, Gilbert S Omenn, Matthew James O'Meara, Joshua D. Welch, Predicting the Structural Impact of Human Alternative Splicing, 2023, bioRxiv](https://doi.org/10.1101/2023.12.21.572928)
+>[Yuxuan Song, Chengxin Zhang, Gilbert S Omenn, Matthew James O'Meara, Joshua D. Welch, Predicting the Structural Impact of Human Alternative Splicing, 2023, bioRxiv](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03744-x)
